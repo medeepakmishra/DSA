@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/medeepakmishra/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/medeepakmishra/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/medeepakmishra/DSA/tree/master/0283-move-zeroes) |
+| [0611-valid-triangle-number](https://github.com/medeepakmishra/DSA/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/medeepakmishra/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -33,20 +34,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/medeepakmishra/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/medeepakmishra/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/medeepakmishra/DSA/tree/master/0283-move-zeroes) |
+| [0611-valid-triangle-number](https://github.com/medeepakmishra/DSA/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/medeepakmishra/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/medeepakmishra/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/medeepakmishra/DSA/tree/master/0611-valid-triangle-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/medeepakmishra/DSA/tree/master/0088-merge-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/medeepakmishra/DSA/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/medeepakmishra/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/medeepakmishra/DSA/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/medeepakmishra/DSA/tree/master/0611-valid-triangle-number) |
 ## String
 |  |
 | ------- |
